@@ -1,75 +1,87 @@
-<div align="center">
+<a href="https://chaitanya697.github.io/portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <img alt="Chaitanya P Desai — Software Engineer: Full-Stack, Cloud & DevOps, Applied ML" src="assets/hero-light.svg" width="100%">
+  </picture>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d3e,100:00ff9c&height=190&section=header&text=Chaitanya%20P%20Desai&fontSize=46&fontColor=e6edf3&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Cloud%20%26%20DevOps%20%C2%B7%20Applied%20ML&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+<p align="center">
+  <a href="https://chaitanya697.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-chaitanya697.github.io-1f883d?style=flat-square&logo=githubpages&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/chaitanya-desai-5a9848328"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chaitanya%20Desai-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:chaitupdesai@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chaitupdesai%40gmail.com-24292f?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+final-year+B.Tech+CSE+%40+SRM+IST%2C+Chennai;Building+full-stack+apps+with+React+%2B+.NET+%2B+Python;Shipping+to+AWS+with+Terraform%2C+Docker%2C+k8s+%26+Jenkins;Open+to+freelance+projects+%E2%80%94+let's+build+something" alt="Typing SVG" /></a>
+<br>
 
-<br/>
+## About
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-desai-5a9848328)
-[![Email](https://img.shields.io/badge/chaitupdesai@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:chaitupdesai@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=00ff9c)](https://chaitanya697.github.io/portfolio/)
-![Profile views](https://komarev.com/ghpvc/?username=Chaitanya697&style=for-the-badge&color=0f3d3e&label=VIEWS)
+I build complete systems, from the React interface to the API, the database and the cloud pipeline that ships it.
+My recent work spans **fintech risk analytics**, **event-driven microservices** and **DevSecOps on Kubernetes**, and I care about
+the unglamorous parts: infrastructure as code, honest model metrics and secure-by-default deployments.
 
-</div>
+| Education | Experience | Focus |
+|:--|:--|:--|
+| **B.Tech, Computer Science (IT)**<br>SRM Institute of Science and Technology, Chennai<br>Final year · CGPA **9.2 / 10** | **Software Development Intern**<br>Full-stack application development | Full-stack web & REST APIs<br>Cloud & DevOps on AWS<br>Applied ML & NLP (LegalBERT research) |
 
----
+<br>
 
-```yaml
-# ~/chaitanya/profile.yaml
-name:        Chaitanya P Desai
-role:        Final-year B.Tech, Computer Science (IT) @ SRM Institute of Science and Technology, Chennai
-cgpa:        9.2 / 10
-experience:  Software development internship (full-stack)
-focus:       [full-stack web, REST APIs, cloud & DevOps, data + ML, NLP]
-research:    LegalBERT / NLP
-status:      🟢 open to freelance & internship opportunities
-```
+## Featured Work
 
-## ⚡ Tech Stack
+<a href="https://github.com/Chaitanya697/fintel-risk-intelligence"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-fintel-dark.svg"><img alt="Fintel — Financial Risk Intelligence Platform" src="assets/card-fintel-light.svg" width="49%"></picture></a>
+<a href="https://github.com/Chaitanya697/gridrelief"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-gridrelief-dark.svg"><img alt="GridRelief — Federated Disaster-Relief Coordination" src="assets/card-gridrelief-light.svg" width="49%"></picture></a>
+<a href="https://github.com/Chaitanya697/devops-pbl3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-tikaa-dark.svg"><img alt="Tikaa — CI/CD, Blue-Green Releases and Security Gate" src="assets/card-tikaa-light.svg" width="49%"></picture></a>
+<a href="https://github.com/Chaitanya697/Noteseek"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-noteseek-dark.svg"><img alt="NoteSeek — Search Engine for Student Study Notes" src="assets/card-noteseek-light.svg" width="49%"></picture></a>
 
-<div align="center">
+<details>
+<summary><b>More projects</b></summary>
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,ts,js,cs,java,c,cpp,html,css&theme=dark" />
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**ShieldGig**](https://github.com/Chaitanya697/shieldgig-devtrails-2026) | AI-powered parametric income insurance for q-commerce delivery partners · Guidewire DEVTrails 2026 | React · Tailwind · AI/ML design |
+| [**BudgetBuddy**](https://github.com/Chaitanya697/BudgetBuddy) | Full-stack personal finance tracker with auth, transactions and dashboards | React · TypeScript · Express · PostgreSQL |
+| [**Quiz Leaderboard**](https://github.com/Chaitanya697/bajaj_Quiz_Leaderboardapp_RA2311031010043) | Polls a quiz API, de-duplicates rounds and builds a ranked leaderboard | Java · REST |
+| [**Portfolio**](https://github.com/Chaitanya697/portfolio) | Personal website on GitHub Pages | HTML · CSS · JavaScript |
 
-**Frontend & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,dotnet,nodejs,express,flask,fastapi&theme=dark" />
+</details>
 
-**Data, Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,docker,kubernetes,terraform,jenkins,prometheus,grafana,rabbitmq,git,gitlab,linux&theme=dark" />
+<br>
 
-**ML & Data** · NumPy · Pandas · scikit-learn · XGBoost · Google Colab · SQL Server
+## Tech Stack
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Technical skills: Python, TypeScript, C#, Java, React, ASP.NET Core, Flask, FastAPI, Pandas, scikit-learn, XGBoost, SQL Server, PostgreSQL, AWS, Terraform, Docker, Kubernetes, Jenkins, Prometheus, Grafana" src="assets/stack-light.svg" width="100%">
+</picture>
 
-## 🚀 Featured Projects
+<br>
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🏛️ **[Fintel](https://github.com/Chaitanya697/fintel-risk-intelligence)** | Financial risk intelligence platform: portfolio risk score, explanations, stress tests, historical crises and an ensemble ML model trained on 20 years of NIFTY-50 data | Python · Flask · scikit-learn · XGBoost · AWS (S3, ECR, EC2) · Terraform · k3s · Jenkins · Prometheus/Grafana |
-| 🌐 **[GridRelief](https://github.com/Chaitanya697/gridrelief)** | Federated disaster-relief coordination: event-driven microservices that rank competing requests and keep working when a service fails | FastAPI · RabbitMQ · Docker Compose · live dashboard |
-| 🔐 **[Tikaa DevSecOps](https://github.com/Chaitanya697/devops-pbl3)** | CI/CD, blue-green releases with auto-rollback, and a security gate (Bandit, pip-audit, Gitleaks, Trivy) on Kubernetes | Flask · Docker · k3s · Jenkins |
-| 📚 **[NoteSeek](https://github.com/Chaitanya697/Noteseek)** | Student doubt search engine: VSM, BM25, Boolean and language-model retrieval, classification, clustering and recommendations | Python · Flask · NLP · IR |
-| 🛡️ **[ShieldGig](https://github.com/Chaitanya697/shieldgig-devtrails-2026)** | AI-powered parametric income insurance for q-commerce delivery partners (Guidewire DEVTrails 2026) | React · Tailwind · AI/ML design |
-| 💰 **[BudgetBuddy](https://github.com/Chaitanya697/BudgetBuddy)** | Full-stack personal finance tracker with auth, transactions and dashboards | React · TypeScript · Express · PostgreSQL · Drizzle |
-| 🏆 **[Quiz Leaderboard](https://github.com/Chaitanya697/bajaj_Quiz_Leaderboardapp_RA2311031010043)** | API polling, de-duplication and score aggregation into a leaderboard | Java · REST |
+## How I Build
 
-## 🛠️ Available for freelance work
+| Principle | In practice |
+|:--|:--|
+| **Infrastructure as code** | Fintel's AWS infrastructure (S3, ECR repositories, security group, EC2) is provisioned with Terraform |
+| **Secure by default** | Non-root containers, no access keys in code (IAM instance roles) and a CI security gate running Bandit, pip-audit, Gitleaks and Trivy |
+| **Honest metrics** | Models are tested on unseen years and every risk report shows its real accuracy (53% vs a 34% baseline), not a cherry-picked number |
+| **Designed to fail safely** | Durable message queues so no request is lost when a service is down; blue-green releases that roll back on a failed health check |
 
-```diff
-+ Python scripts & automation (Excel, CSV, PDF, APIs)
-+ Data cleaning, analysis & small dashboards
-+ React / TypeScript frontend fixes and features
-+ REST API development & debugging (.NET, Flask, FastAPI, Express)
-+ SQL queries, schema design & database fixes
-+ Docker, CI/CD and AWS deployment help
-```
+<br>
 
-📫 **Reach me:** [chaitupdesai@gmail.com](mailto:chaitupdesai@gmail.com) · [LinkedIn](https://www.linkedin.com/in/chaitanya-desai-5a9848328)
+## Work With Me
 
-<div align="center">
+Available for **freelance projects** with a clear scope and a fixed price.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0f3d3e,100:0d1117&height=110&section=footer" width="100%"/>
+| Service | What's included |
+|:--|:--|
+| **Python & automation** | Scripts, Excel / CSV / PDF processing, API integrations |
+| **Data** | Cleaning, analysis and small dashboards |
+| **Frontend** | React / TypeScript bug fixes and features |
+| **Backend** | REST APIs in ASP.NET Core, Flask, FastAPI or Express |
+| **Databases** | SQL queries, schema design and fixes |
+| **Deployment** | Docker, CI/CD pipelines and AWS setup |
 
-</div>
+<a href="mailto:chaitupdesai@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
+    <img alt="Email chaitupdesai@gmail.com" src="assets/contact-light.svg" width="100%">
+  </picture>
+</a>
