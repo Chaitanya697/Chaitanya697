@@ -25,6 +25,17 @@ the unglamorous parts: infrastructure as code, honest model metrics and secure-b
 
 <br>
 
+## GitHub at a Glance
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" alt="GitHub stats: repositories, commits, contributions, languages, and achievements" width="100%">
+</picture>
+
+<sub>Refreshed every day by a <a href=".github/workflows/stats.yml">GitHub Action</a>, self-hosted with no third-party stats services.</sub>
+
+<br><br>
+
 ## Featured Work
 
 <a href="https://github.com/Chaitanya697/fintel-risk-intelligence"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-fintel-dark.svg"><img alt="Fintel — Financial Risk Intelligence Platform" src="assets/card-fintel-light.svg" width="49%"></picture></a>
