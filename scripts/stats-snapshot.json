@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "repositories": 9,
   "commits": 37,
   "contributions_year": 34,
@@ -11,40 +11,44 @@
   "longest_streak": 2,
   "languages": {
     "Python": {
-      "bytes": 201090,
+      "bytes": 208806,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 82350,
+      "bytes": 80128,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 56882,
+      "bytes": 56291,
       "color": "#663399"
     },
     "HTML": {
-      "bytes": 91392,
+      "bytes": 91721,
       "color": "#e34c26"
     },
     "TypeScript": {
-      "bytes": 261322,
+      "bytes": 159041,
       "color": "#3178c6"
     },
     "Java": {
-      "bytes": 9931,
+      "bytes": 9181,
       "color": "#b07219"
+    },
+    "Batchfile": {
+      "bytes": 348,
+      "color": "#C1F12E"
+    },
+    "Shell": {
+      "bytes": 1895,
+      "color": "#89e051"
     },
     "Dockerfile": {
       "bytes": 3271,
       "color": "#384d54"
     },
     "HCL": {
-      "bytes": 5693,
+      "bytes": 5557,
       "color": "#844FBA"
-    },
-    "Shell": {
-      "bytes": 972,
-      "color": "#89e051"
     },
     "PowerShell": {
       "bytes": 5352,
@@ -1510,6 +1514,10 @@
     ],
     [
       "2026-11-22",
+      0
+    ],
+    [
+      "2026-11-23",
       0
     ]
   ]
